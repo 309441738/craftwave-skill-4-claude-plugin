@@ -1,0 +1,8 @@
+{
+  "name": "craftwave-skill-4",
+  "description": "提供最新的邮轮季节性促销信息，让用户及时了解优惠活动，适合预算有限但渴望出行的旅客。",
+  "version": "0.1.0",
+  "author": {
+    "name": "craftwave"
+  }
+}
